@@ -45,7 +45,7 @@ Automatic closing	Closes after the delay if the doorway is clear
 
 Idle state	Waits for new requests
 
-                                                     # Block Diagram 
+                                                  
 
             <img width="1280" height="930" alt="block" src="https://github.com/user-attachments/assets/3cca3640-b19c-4da8-82a4-97cd42d0d2af" />
 
