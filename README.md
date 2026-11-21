@@ -4,7 +4,9 @@ We will build a complete 6-stop automatic elevator control system using Verilog 
 
 # 1. Project specifications
 We will consider six stops:
+
 Floor ID	Floor name
+
 0-	Basement (B)
 
 1-	Ground / Floor 1
